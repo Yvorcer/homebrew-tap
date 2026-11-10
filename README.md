@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#install"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/hero.svg" width="900" alt="QuickSnip. Select. Press C. It’s on your clipboard. A fast, keyboard-first screenshot tool for macOS. Install free for Mac. A looping demo shows a capture: Command Shift K, drag a selection, A draws an arrow, N adds a step number, and C copies it."></a>
+  <a href="#install"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/hero.svg" width="900" alt="QuickSnip. Select. Press C. It’s on your clipboard. A fast, keyboard-first screenshot tool for macOS. Install free for Mac. A clip of QuickSnip plays on a laptop: Command Shift K starts a capture, an area of The Starry Night is selected and marked up with an ellipse, an arrow, step numbers, text and the pen, then C copies it to the clipboard."></a>
 </p>
 
 <p align="center">
