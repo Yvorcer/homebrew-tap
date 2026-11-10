@@ -7,15 +7,14 @@ cask "quicksnip" do
   desc "Keyboard-first screenshot tool: select, press C, it's on your clipboard"
   homepage "https://github.com/Yvorcer/homebrew-tap"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "QuickSnip.app"
 
   # Not notarized (no paid Apple Developer account), so clear the download
   # quarantine; otherwise macOS refuses to open the app.
-  postflight do
-    system_command "/usr/bin/xattr",
-                   args: ["-dr", "com.apple.quarantine", "#{appdir}/QuickSnip.app"]
+  postflight_steps do
+    run "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "{{appdir}}/QuickSnip.app"], must_succeed: false
   end
 
   uninstall quit: "local.quicksnip"
