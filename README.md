@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/AppIcon.svg" width="144" height="144" alt="QuickSnip icon">
+  <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/AppIcon.svg" width="144" height="144" alt="QuickSnip icon">
 </p>
 
 <h1 align="center">QuickSnip</h1>
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yvorcer/homebrew-tap/releases/download/page/demo.mp4"><img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/demo.webp" width="880" alt="QuickSnip demo: drag over The Starry Night, mark it up with single-key tools, copy and paste it, copy the full screen with F, and pin a crop of Girl with a Pearl Earring above other windows"></a><br>
-  <sub><a href="https://github.com/Yvorcer/homebrew-tap/releases/download/page/demo.mp4">Watch with sound (MP4)</a> · Paintings by Monet, Van Gogh and Vermeer (public domain)</sub>
+  <a href="https://github.com/Yvorcer/quicksnip-media/blob/main/demo.mp4"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/demo.webp" width="880" alt="QuickSnip demo: drag over The Starry Night, mark it up with single-key tools, copy and paste it, copy the full screen with F, and pin a crop of Girl with a Pearl Earring above other windows"></a><br>
+  <sub><a href="https://github.com/Yvorcer/quicksnip-media/blob/main/demo.mp4">Watch with sound (MP4)</a> · Paintings by Monet, Van Gogh and Vermeer (public domain)</sub>
 </p>
 
 ---
@@ -31,24 +31,24 @@ QuickSnip lives in your menu bar. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd>
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/capture.webp" alt="Hovering highlights each window, a click grabs one, and dragging selects any area"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/capture.webp" alt="Hovering highlights each window, a click grabs one, and dragging selects any area"><br>
       <b>Area and window capture</b><br>
       The screen freezes the moment you start, so menus and hover states stay put. Hover a window to grab it whole, or drag any area.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/precision.webp" alt="The magnifier follows the cursor over the moon, then the selection is nudged with the arrow keys and resized by a handle"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/precision.webp" alt="The magnifier follows the cursor over the moon, then the selection is nudged with the arrow keys and resized by a handle"><br>
       <b>Pixel-accurate</b><br>
       A magnifier shows the pixels and color under the cursor. Nudge with the arrow keys, resize with the handles. Captures are full Retina resolution and never resampled.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/finish.webp" alt="C copies the highlighted window, S saves a screenshot to the desktop, F copies the whole screen"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/finish.webp" alt="C copies the highlighted window, S saves a screenshot to the desktop, F copies the whole screen"><br>
       <b>One key to finish</b><br>
       <kbd>C</kbd> copies, <kbd>S</kbd> saves to your screenshots folder, <kbd>P</kbd> pins, <kbd>F</kbd> copies the full screen. Before you drag anything, they act on the highlighted window.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/pin.webp" alt="A crop of Girl with a Pearl Earring is pinned, dragged over another window, zoomed and closed"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/pin.webp" alt="A crop of Girl with a Pearl Earring is pinned, dragged over another window, zoomed and closed"><br>
       <b>Pin to screen</b><br>
       Float a screenshot above everything else while you work. Drag it, scroll to zoom, copy it again later.
     </td>
@@ -62,36 +62,36 @@ Every tool has its own key. Press it again to put the tool down.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/shapes.webp" alt="A rectangle, an ellipse, a line and an arrow drawn over The Starry Night"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/shapes.webp" alt="A rectangle, an ellipse, a line and an arrow drawn over The Starry Night"><br>
       <b>Shapes</b><br>
       <kbd>R</kbd> rectangle, <kbd>O</kbd> ellipse, <kbd>L</kbd> line, <kbd>A</kbd> arrow. Hold <kbd>⇧</kbd> for perfect squares, circles and 45° lines.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/freehand.webp" alt="A note's title is highlighted in yellow and its date circled with the pen"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/freehand.webp" alt="A note's title is highlighted in yellow and its date circled with the pen"><br>
       <b>Pen and highlighter</b><br>
       <kbd>D</kbd> draws freehand. <kbd>H</kbd> highlights text without hiding it.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/text-steps.webp" alt="Numbered steps 1, 2 and 3 placed on stars, then a white text label typed"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/text-steps.webp" alt="Numbered steps 1, 2 and 3 placed on stars, then a white text label typed"><br>
       <b>Text and numbered steps</b><br>
       <kbd>T</kbd> adds a label. <kbd>N</kbd> drops 1, 2, 3… to walk someone through. Double-click text to edit it.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/redact.webp" alt="A face is pixelated with mosaic and a line of text is blurred"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/redact.webp" alt="A face is pixelated with mosaic and a line of text is blurred"><br>
       <b>Mosaic and blur</b><br>
       <kbd>M</kbd> pixelates and <kbd>B</kbd> blurs, so faces, names and anything private stay private.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/style.webp" alt="A selected arrow turns blue, then yellow, then thicker, and a new ellipse uses the same style"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/style.webp" alt="A selected arrow turns blue, then yellow, then thicker, and a new ellipse uses the same style"><br>
       <b>Colors and line widths</b><br>
       <kbd>1</kbd>–<kbd>6</kbd> pick red, yellow, green, blue, black or white. <kbd>[</kbd> <kbd>]</kbd> make lines thinner or thicker. Select a mark first to restyle it.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Yvorcer/homebrew-tap/releases/download/page/edit.webp" alt="A text label is dragged under an arrow, an ellipse is deleted, then undo and redo bring it back"><br>
+      <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/edit.webp" alt="A text label is dragged under an arrow, an ellipse is deleted, then undo and redo bring it back"><br>
       <b>Move, delete, undo</b><br>
       Drag any mark to move it. <kbd>Delete</kbd> removes it, <kbd>⌘</kbd><kbd>Z</kbd> and <kbd>⌘</kbd><kbd>⇧</kbd><kbd>Z</kbd> undo and redo.
     </td>
