@@ -1,18 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/AppIcon.svg" width="144" height="144" alt="QuickSnip icon">
-</p>
-
-<h1 align="center">QuickSnip</h1>
-
-<p align="center">
-  <strong>Select. Press <kbd>C</kbd>. It's on your clipboard.</strong><br>
-  A fast, keyboard-first screenshot tool for macOS.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/macOS-14%2B-111111?logo=apple&logoColor=white" alt="macOS 14+">
-  <img src="https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white" alt="Swift 6">
-  <img src="https://img.shields.io/badge/AppKit-native-3D7BFF" alt="Native AppKit">
+  <a href="#install"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/hero.svg" width="900" alt="QuickSnip. Select. Press C. It’s on your clipboard. A fast, keyboard-first screenshot tool for macOS. Install free for Mac. A looping demo shows a capture: Command Shift K, drag a selection, A draws an arrow, N adds a step number, and C copies it."></a>
 </p>
 
 <p align="center">
