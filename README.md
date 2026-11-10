@@ -108,6 +108,8 @@ The first time you capture, macOS asks for permission. Turn on QuickSnip in **Sy
 
 ## Keyboard shortcuts
 
+These are the defaults. To change the capture shortcut, the finishing keys or any tool's key, choose **Keyboard Shortcuts…** from QuickSnip's menu-bar menu, click a shortcut and press the new key. Return, Esc, undo and redo, the color keys <kbd>1</kbd>–<kbd>6</kbd> and <kbd>[</kbd> <kbd>]</kbd> stay the same.
+
 ### Capturing
 
 | Keys | Action |
@@ -168,6 +170,6 @@ tccutil reset ScreenCapture local.quicksnip
 
 Then reopen QuickSnip, allow it when asked, and choose **Quit & Reopen**.
 
-**⌘⇧K does nothing.** Another app may already use that shortcut. QuickSnip's menu-bar menu also has **Capture Area**.
+**⌘⇧K does nothing.** Another app may already use that shortcut. Pick a different one in **Keyboard Shortcuts…** in QuickSnip's menu-bar menu, which also has **Capture Area**.
 
 <sub>This repository is the Homebrew tap for QuickSnip. `Casks/quicksnip.rb` is the install recipe and the Releases tab holds the downloads.</sub>
