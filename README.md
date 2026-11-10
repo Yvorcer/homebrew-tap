@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#install"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/hero.svg" width="900" alt="QuickSnip. Select. Press C. It’s on your clipboard. A fast, keyboard-first screenshot tool for macOS. Install free for Mac. A clip of QuickSnip plays on a laptop: Command Shift K starts a capture, an area of The Starry Night is selected and marked up with an ellipse, an arrow, step numbers, text and the pen, then C copies it to the clipboard."></a><br>
-  <sub><a href="https://github.com/Yvorcer/quicksnip-media/blob/main/demo.mp4">Watch the full demo with sound (MP4)</a> · Paintings by Monet, Van Gogh and Vermeer (public domain)</sub>
+  <a href="https://yvorcer.github.io/quicksnip/"><img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/hero.svg" width="900" alt="QuickSnip. Select. Press C. It’s on your clipboard. A fast, keyboard-first screenshot tool for macOS. Install free for Mac. A clip of QuickSnip plays on a laptop: Command Shift K starts a capture, an area of The Starry Night is selected and marked up with an ellipse, an arrow, step numbers, text and the pen, then C copies it to the clipboard."></a><br>
+  <sub><a href="https://yvorcer.github.io/quicksnip/">Website</a> · <a href="https://github.com/Yvorcer/quicksnip-media/blob/main/demo.mp4">Watch the full demo with sound (MP4)</a> · Paintings by Monet, Van Gogh and Vermeer (public domain)</sub>
 </p>
 
 ---
