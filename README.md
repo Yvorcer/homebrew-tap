@@ -21,7 +21,7 @@ QuickSnip lives in your menu bar. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/precision.webp" alt="The magnifier follows the cursor over the moon, then the selection is nudged with the arrow keys and resized by a handle"><br>
       <b>Pixel-accurate</b><br>
-      A magnifier shows the pixels and color under the cursor. Nudge with the arrow keys, resize with the handles. Captures are full Retina resolution and never resampled.
+      A magnifier shows the pixels and color under the cursor, and <kbd>I</kbd> copies that color as hex and RGB. Nudge with the arrow keys, resize with the handles. Captures are full Retina resolution and never resampled.
     </td>
   </tr>
   <tr>
@@ -85,6 +85,7 @@ Every tool has its own key. Press it again to put the tool down.
 
 - **Multi-display.** Works across every connected screen.
 - **Fits into macOS.** Plays the familiar screenshot sound, saves to the same folder as macOS screenshots, and can launch at login. The sound follows your "Play user interface sound effects" setting and can be turned off from the menu bar.
+- **Out of the way.** Hide the menu bar icon with **Hide Menu Bar Icon…** and QuickSnip keeps working from its shortcut. Open QuickSnip again, from Spotlight or your Applications folder, to bring the icon back.
 
 ## Install
 
@@ -116,6 +117,7 @@ These are the defaults. To change the capture shortcut, the finishing keys or an
 | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>S</kbd> | Save As… |
 | <kbd>P</kbd> | Pin to screen |
 | <kbd>F</kbd> | Copy the full screen |
+| <kbd>I</kbd> | Copy the color under the pointer, as hex and RGB: `#B2B366 rgb(178, 179, 102)` |
 | <kbd>Esc</kbd> | Close, at any point |
 
 Before you drag anything, <kbd>C</kbd>, <kbd>S</kbd> and <kbd>P</kbd> act on the highlighted window.
@@ -165,6 +167,8 @@ tccutil reset ScreenCapture local.quicksnip
 ```
 
 Then reopen QuickSnip, allow it when asked, and choose **Quit & Reopen**.
+
+**The menu bar icon is gone.** You may have hidden it. Open QuickSnip again, from Spotlight or your Applications folder, and it comes back. If QuickSnip wasn't running, the first open starts it and a second one shows the icon.
 
 **⌘⇧K does nothing.** Another app may already use that shortcut. Pick a different one in **Keyboard Shortcuts…** in QuickSnip's menu-bar menu, which also has **Capture Area**.
 
