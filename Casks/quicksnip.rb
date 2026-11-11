@@ -1,11 +1,11 @@
 cask "quicksnip" do
-  version "1.1.0"
-  sha256 "07f513f8df790ec03e4d39dc613756d9950bc367709f354d1a3707af11867062"
+  version "1.2.0"
+  sha256 "25d26a6e801fc7bc8343e4d5f3c23c492f710b40a32b468344a5117a5829ced3"
 
   url "https://github.com/Yvorcer/homebrew-tap/releases/download/quicksnip-v#{version}/QuickSnip-#{version}.zip"
   name "QuickSnip"
   desc "Keyboard-first screenshot tool: select, press C, it's on your clipboard"
-  homepage "https://github.com/Yvorcer/homebrew-tap"
+  homepage "https://yvorcer.github.io/quicksnip/"
 
   depends_on macos: :sonoma
 
