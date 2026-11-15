@@ -86,9 +86,9 @@ Every tool has its own key. Press it again to put the tool down.
 Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> and a record bar opens, with a key for everything. Needs macOS 15 Sequoia or later.
 
 - **An area, a window or the whole screen.** <kbd>A</kbd> draws an area the way you select a screenshot, <kbd>W</kbd> records one window, <kbd>F</kbd> the full screen. Return starts.
-- **Sound and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices.
+- **Sound, your face and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>C</kbd> puts your face from the camera in a round bubble at the bottom right. <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices.
 - **You can see what's recorded.** A pulsing red frame marks it, and stays out of the video. The menu bar shows the time, with Pause, Stop and Discard. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> again to stop.
-- **Edit it afterwards.** Stopping opens a dark editor with glass controls. Drag the ends to trim. Speed parts up 2×, 4× or 8×, or slow them to 0.25× or 0.5×, each part at its own speed. Show your clicks (<kbd>P</kbd>) and the shortcuts you pressed (<kbd>K</kbd>), decided afterwards rather than up front. Mute the Mac's sound or the mic if one was recorded by accident.
+- **Edit it afterwards.** Stopping opens a dark editor with glass controls. Drag the ends to trim. Speed parts up 2×, 4× or 8×, or slow them to 0.25× or 0.5×, each part at its own speed. Show your clicks (<kbd>P</kbd>), the shortcuts you pressed (<kbd>K</kbd>) and your face (<kbd>F</kbd>), decided afterwards rather than up front. Mute the Mac's sound or the mic if one was recorded by accident.
 - **MP4 or GIF.** See the size before you export, then <kbd>C</kbd> copies and <kbd>S</kbd> saves, like a screenshot.
 
 ### Everywhere else
@@ -114,7 +114,7 @@ Download the QuickSnip zip from the [latest release](https://github.com/Yvorcer/
 
 The first time you capture, macOS asks for permission. Turn on QuickSnip in **System Settings → Privacy & Security → Screen & System Audio Recording**, then choose **Quit & Reopen**. Updates keep the permission, because every release is signed with the same certificate.
 
-Recording the microphone asks for the Microphone permission the first time. To show the shortcuts you pressed in a recording, QuickSnip needs **Input Monitoring**; the editor offers to open that setting the first time you turn on <kbd>K</kbd>. Plain typing is never noted.
+Recording the microphone or the camera asks for that permission the first time. To show the shortcuts you pressed in a recording, QuickSnip needs **Input Monitoring**; the editor offers to open that setting the first time you turn on <kbd>K</kbd>. Plain typing is never noted.
 
 ## Keyboard shortcuts
 
@@ -166,7 +166,7 @@ Press a tool's key again to put it down.
 |---|---|
 | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> | Open the record bar, or stop recording |
 | <kbd>A</kbd> · <kbd>W</kbd> · <kbd>F</kbd> | Record an area, one window, the full screen |
-| <kbd>S</kbd> · <kbd>M</kbd> | The Mac's sound, the microphone, on or off |
+| <kbd>S</kbd> · <kbd>M</kbd> · <kbd>C</kbd> | The Mac's sound, the microphone, the camera, on or off |
 | <kbd>T</kbd> | Count down 3-2-1 first |
 | <kbd>Return</kbd> · <kbd>R</kbd> | Start recording |
 | <kbd>Esc</kbd>, right-click, or <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> | Close the record bar |
@@ -177,7 +177,7 @@ Press a tool's key again to put it down.
 |---|---|
 | <kbd>Space</kbd> · <kbd>←</kbd> <kbd>→</kbd> | Play and pause · step a frame (<kbd>⇧</kbd> for a second) |
 | <kbd>G</kbd> or click a part | Speed the part up: 2×, 4×, 8×, then 0.25× and 0.5× |
-| <kbd>P</kbd> · <kbd>K</kbd> | Show clicks · show shortcuts |
+| <kbd>P</kbd> · <kbd>K</kbd> · <kbd>F</kbd> | Show clicks · shortcuts · your face |
 | <kbd>C</kbd> · <kbd>S</kbd> · <kbd>⌘</kbd><kbd>⇧</kbd><kbd>S</kbd> | Copy · save · Save As… |
 | <kbd>⌘</kbd><kbd>Z</kbd> · <kbd>⌘</kbd><kbd>⇧</kbd><kbd>Z</kbd> | Undo / redo |
 | <kbd>Delete</kbd> | Remove the selected speed part, or delete the recording |
