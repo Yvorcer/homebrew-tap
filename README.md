@@ -28,7 +28,7 @@ QuickSnip lives in your menu bar. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/finish.webp" alt="C copies the highlighted window, S saves a screenshot to the desktop, F copies the whole screen"><br>
       <b>One key to finish</b><br>
-      <kbd>C</kbd> copies, <kbd>S</kbd> saves to your screenshots folder, <kbd>P</kbd> pins, <kbd>F</kbd> copies the full screen. Before you drag anything, they act on the highlighted window.
+      <kbd>C</kbd> copies, <kbd>S</kbd> saves to your screenshots folder, <kbd>P</kbd> pins. <kbd>F</kbd> selects the full screen to draw on. Before you drag anything, they act on the highlighted window.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/pin.webp" alt="A crop of Girl with a Pearl Earring is pinned, dragged over another window, zoomed and closed"><br>
@@ -84,8 +84,9 @@ Every tool has its own key. Press it again to put the tool down.
 ### Everywhere else
 
 - **Multi-display.** Works across every connected screen.
-- **Fits into macOS.** Plays the familiar screenshot sound, saves to the same folder as macOS screenshots, and can launch at login. The sound follows your "Play user interface sound effects" setting and can be turned off from the menu bar.
-- **Out of the way.** Hide the menu bar icon with **Hide Menu Bar Icon…** and QuickSnip keeps working from its shortcut. Open QuickSnip again, from Spotlight or your Applications folder, to bring the icon back.
+- **Fits into macOS.** Plays the familiar screenshot sound, saves to the same folder as macOS screenshots or one you choose, and can open at login. The sound follows your "Play user interface sound effects" setting and can be turned off in Settings.
+- **Settings that look like macOS.** Choose **Settings…** from the menu bar icon, or open QuickSnip again from Spotlight. Startup, the menu bar icon, sound, the save folder and every shortcut live there, in the style of System Settings, with Liquid Glass on macOS 26.
+- **Out of the way.** Turn off **Show QuickSnip in the menu bar** in Settings → General and QuickSnip keeps working from its shortcut. Open QuickSnip again, from Spotlight or your Applications folder, to bring the icon back.
 
 ## Install
 
@@ -105,7 +106,7 @@ The first time you capture, macOS asks for permission. Turn on QuickSnip in **Sy
 
 ## Keyboard shortcuts
 
-These are the defaults. To change the capture shortcut, the finishing keys or any tool's key, choose **Keyboard Shortcuts…** from QuickSnip's menu-bar menu, click a shortcut and press the new key. Return, Esc, undo and redo, the color keys <kbd>1</kbd>–<kbd>6</kbd> and <kbd>[</kbd> <kbd>]</kbd> stay the same.
+These are the defaults. To change the capture shortcut, the finishing keys or any tool's key, choose **Keyboard Shortcuts…** from QuickSnip's menu-bar menu (it opens Settings → Shortcuts), click a shortcut and press the new key. Return, Esc, undo and redo, the color keys <kbd>1</kbd>–<kbd>6</kbd> and <kbd>[</kbd> <kbd>]</kbd> stay the same.
 
 ### Capturing
 
@@ -116,9 +117,9 @@ These are the defaults. To change the capture shortcut, the finishing keys or an
 | <kbd>S</kbd> | Save to your screenshot folder |
 | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>S</kbd> | Save As… |
 | <kbd>P</kbd> | Pin to screen |
-| <kbd>F</kbd> | Copy the full screen |
+| <kbd>F</kbd> | Select the full screen, ready to draw on |
 | <kbd>I</kbd> | Copy the color under the pointer, as hex and RGB: `#B2B366 rgb(178, 179, 102)` |
-| <kbd>Esc</kbd> | Close, at any point |
+| <kbd>Esc</kbd>, right-click, or <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd> again | Close, at any point |
 
 Before you drag anything, <kbd>C</kbd>, <kbd>S</kbd> and <kbd>P</kbd> act on the highlighted window.
 
@@ -170,6 +171,6 @@ Then reopen QuickSnip, allow it when asked, and choose **Quit & Reopen**.
 
 **The menu bar icon is gone.** You may have hidden it. Open QuickSnip again, from Spotlight or your Applications folder, and it comes back. If QuickSnip wasn't running, the first open starts it and a second one shows the icon.
 
-**⌘⇧K does nothing.** Another app may already use that shortcut. Pick a different one in **Keyboard Shortcuts…** in QuickSnip's menu-bar menu, which also has **Capture Area**.
+**⌘⇧K does nothing.** Another app may already use that shortcut. Pick a different one in **Settings → Shortcuts**. QuickSnip's menu-bar menu also has **Capture Area**.
 
 <sub>This repository is the Homebrew tap for QuickSnip. `Casks/quicksnip.rb` is the install recipe and the Releases tab holds the downloads.</sub>
