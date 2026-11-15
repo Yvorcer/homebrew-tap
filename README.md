@@ -52,7 +52,7 @@ Every tool has its own key. Press it again to put the tool down.
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/freehand.webp" alt="A note's title is highlighted in yellow and its date circled with the pen"><br>
       <b>Pen and highlighter</b><br>
-      <kbd>D</kbd> draws freehand. <kbd>H</kbd> highlights text without hiding it.
+      <kbd>D</kbd> draws freehand. <kbd>H</kbd> highlights text without hiding it. A lazy mouse keeps shaky strokes smooth; set its strength in Settings → General.
     </td>
   </tr>
   <tr>
