@@ -1,10 +1,10 @@
 cask "quicksnip" do
-  version "1.3.0"
-  sha256 "3609239fcca76ccc08bbcd2d4a5d25bdb7a9fcef22c0c7550f6072c403dd6327"
+  version "1.4.0"
+  sha256 "3cd39d8f018c592f2943dcb37d0acdab316afea03da27902d2a3022848aa8fbb"
 
   url "https://github.com/Yvorcer/homebrew-tap/releases/download/quicksnip-v#{version}/QuickSnip-#{version}.zip"
   name "QuickSnip"
-  desc "Keyboard-first screenshot tool: select, press C, it's on your clipboard"
+  desc "Keyboard-first screenshot and screen recording tool"
   homepage "https://yvorcer.github.io/quicksnip/"
 
   depends_on macos: :sonoma
@@ -19,5 +19,8 @@ cask "quicksnip" do
 
   uninstall quit: "local.quicksnip"
 
-  zap trash: "~/Library/Preferences/local.quicksnip.plist"
+  zap trash: [
+    "~/Library/Application Support/QuickSnip",
+    "~/Library/Preferences/local.quicksnip.plist",
+  ]
 end
