@@ -1,6 +1,6 @@
 cask "quicksnip" do
-  version "1.6.0"
-  sha256 "87d266c1c50ecab17eec9f82e7402fbf0765e7f1c9e275f9e8103637bb3b2308"
+  version "1.7.0"
+  sha256 "e0cfc82b9e689f6960dfd980f1584c95ae1ddc11984e283fd7a35b1e93e44017"
 
   url "https://github.com/Yvorcer/homebrew-tap/releases/download/quicksnip-v#{version}/QuickSnip-#{version}.zip"
   name "QuickSnip"
