@@ -86,7 +86,7 @@ Every tool has its own key. Press it again to put the tool down.
 Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> and a record bar opens, with a key for everything. Needs macOS 15 Sequoia or later.
 
 - **An area, a window or the whole screen.** <kbd>A</kbd> draws an area the way you select a screenshot, <kbd>W</kbd> records one window, <kbd>F</kbd> the full screen. Return starts.
-- **Sound, your face and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>C</kbd> puts your face from the camera in a round bubble at the bottom right. <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices.
+- **Sound, your face and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>C</kbd> puts your face from the camera in a round bubble; drag it to any corner, while recording or afterwards in the editor. <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices.
 - **You can see what's recorded.** A pulsing red frame marks it, and stays out of the video. The menu bar shows the time, with Pause, Stop and Discard. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> again to stop.
 - **Edit it afterwards.** Stopping opens a dark editor with glass controls. Drag the ends to trim. Speed parts up 2×, 4× or 8×, or slow them to 0.25× or 0.5×, each part at its own speed. Show your clicks (<kbd>P</kbd>), the shortcuts you pressed (<kbd>K</kbd>) and your face (<kbd>F</kbd>), decided afterwards rather than up front. Mute the Mac's sound or the mic if one was recorded by accident.
 - **MP4 or GIF.** See the size before you export, then <kbd>C</kbd> copies and <kbd>S</kbd> saves, like a screenshot.
