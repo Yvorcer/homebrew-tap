@@ -71,7 +71,7 @@ Every tool has its own key. Press it again to put the tool down.
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/style.webp" alt="A selected arrow turns blue, then yellow, then thicker, and a new ellipse uses the same style"><br>
       <b>Colors and line widths</b><br>
-      <kbd>1</kbd>–<kbd>6</kbd> pick red, yellow, green, blue, black or white. <kbd>[</kbd> <kbd>]</kbd> make lines thinner or thicker. Select a mark first to restyle it.
+      <kbd>1</kbd>–<kbd>7</kbd> pick red, yellow, green, blue, black, white or pink, and the color wheel next to them picks any color. <kbd>[</kbd> <kbd>]</kbd> make lines thinner or thicker. Select a mark first to restyle it.
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/Yvorcer/quicksnip-media/main/edit.webp" alt="A text label is dragged under an arrow, an ellipse is deleted, then undo and redo bring it back"><br>
@@ -118,7 +118,7 @@ Recording the microphone or the camera asks for that permission the first time. 
 
 ## Keyboard shortcuts
 
-These are the defaults. To change the capture shortcut, the finishing keys or any tool's key, choose **Keyboard Shortcuts…** from QuickSnip's menu-bar menu (it opens Settings → Shortcuts), click a shortcut and press the new key. Return, Esc, undo and redo, the color keys <kbd>1</kbd>–<kbd>6</kbd> and <kbd>[</kbd> <kbd>]</kbd> stay the same.
+These are the defaults. To change the capture shortcut, the finishing keys or any tool's key, choose **Keyboard Shortcuts…** from QuickSnip's menu-bar menu (it opens Settings → Shortcuts), click a shortcut and press the new key. Return, Esc, undo and redo, the color keys <kbd>1</kbd>–<kbd>7</kbd> and <kbd>[</kbd> <kbd>]</kbd> stay the same.
 
 ### Capturing
 
@@ -151,7 +151,8 @@ Press a tool's key again to put it down.
 
 | Keys | Action |
 |---|---|
-| <kbd>1</kbd> – <kbd>6</kbd> | Red, yellow, green, blue, black, white |
+| <kbd>1</kbd> – <kbd>7</kbd> | Red, yellow, green, blue, black, white, pink |
+| The color wheel in the toolbar | Any color, with the Mac's color picker |
 | <kbd>[</kbd> <kbd>]</kbd> | Thinner / thicker lines |
 | <kbd>⌘</kbd><kbd>Z</kbd> · <kbd>⌘</kbd><kbd>⇧</kbd><kbd>Z</kbd> | Undo / redo |
 | <kbd>Delete</kbd> | Remove the selected annotation |
