@@ -86,7 +86,7 @@ Every tool has its own key. Press it again to put the tool down.
 Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> and a record bar opens, with a key for everything. Needs macOS 15 Sequoia or later.
 
 - **An area, a window or the whole screen.** <kbd>A</kbd> draws an area the way you select a screenshot, <kbd>W</kbd> records one window, <kbd>F</kbd> the full screen. Return starts.
-- **Sound, your face and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>C</kbd> puts your face from the camera in a round bubble; drag it to any corner, while recording or afterwards in the editor. <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices.
+- **Sound, your face and a countdown.** <kbd>S</kbd> records the Mac's sound, <kbd>M</kbd> the microphone, and <kbd>C</kbd> puts your face from the camera in a round bubble; drag it to any corner, while recording or afterwards in the editor. <kbd>T</kbd> counts down 3-2-1 first. The bar remembers your choices. Or pick an avatar from the Avatar button that appears next to the camera, and a cartoon character follows your face and hands instead, so the camera's picture of you is never recorded. Add your own in Settings, from a VRM or GLB file.
 - **You can see what's recorded.** A pulsing red frame marks it, and stays out of the video. The menu bar shows the time, with Pause, Stop and Discard. Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> again to stop.
 - **Edit it afterwards.** Stopping opens a dark editor with glass controls. Drag the ends to trim. Speed parts up 2×, 4× or 8×, or slow them to 0.25× or 0.5×, each part at its own speed. Show your clicks (<kbd>P</kbd>), the shortcuts you pressed (<kbd>K</kbd>) and your face (<kbd>F</kbd>), decided afterwards rather than up front. Mute the Mac's sound or the mic if one was recorded by accident.
 - **MP4 or GIF.** See the size before you export, then <kbd>C</kbd> copies and <kbd>S</kbd> saves, like a screenshot.
@@ -209,5 +209,9 @@ Then reopen QuickSnip, allow it when asked, and choose **Quit & Reopen**.
 **⌘⇧K does nothing.** Another app may already use that shortcut. Pick a different one in **Settings → Shortcuts**. QuickSnip's menu-bar menu also has **Capture Area**.
 
 **A recording shows no shortcuts.** QuickSnip needs **Input Monitoring** to note them. Turn it on in **System Settings → Privacy & Security → Input Monitoring**; shortcuts are noted from your next recording on.
+
+## License
+
+QuickSnip is © 2026 Yvorcer. All rights reserved. You may download and use the official app for free, but you may not copy, clone, fork, change, redistribute or sell it, or release it under another name. Contributions become Yvorcer's.
 
 <sub>This repository is the Homebrew tap for QuickSnip. `Casks/quicksnip.rb` is the install recipe and the Releases tab holds the downloads.</sub>
